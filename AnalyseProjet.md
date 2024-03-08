@@ -116,3 +116,20 @@ Y-a-t'il des incentives pour les holders ? Y-a-t'il des concours ou jeux pour pe
 Qu'en est-il de l'ecosystème actuel ? Quelles sont les perspectives de croissance de l'écosystème ? 
 
 
+
+## Analyse technique
+
+Cette partie est dédiée à l'analyse de la courbe du projet (si elle existe). Etudier les cours et noter ses idées. 
+
+### Charts
+
+Reproduire les charts.
+
+### Analyse 
+
+Détailler les outils d'analyse utilisés et proposer son analyse ici. 
+Cette section peut servir à retranscrire des analyses extérieures.
+
+### Son plan
+
+Retranscrire ici son plan d'exécution.
