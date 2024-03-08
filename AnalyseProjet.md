@@ -56,7 +56,7 @@ Qu'elle est la technologie en jeu ? Est-ce une rupture technologique ou un prolo
 
 ## Blockchain
 
-<h4 style="color:Tomato;">Si c'est une blockchain</h4>
+<h4 style="color:Tomato;">🔴 Si c'est une blockchain 🔴 </h4>
 
 ### Documentation
 
@@ -70,7 +70,7 @@ Y-a-t'il des financements pour soutenir le développement de projets ? Y-a-t'il 
 
 Payer les frais sur la Blockchain. Est-ce que le token est aussi un token de gouvernance ? 
 
-<h4 style="color:Tomato;">Si c'est un projet sur une blockchain<h4>
+<h4 style="color:Tomato;">🔴 Si c'est un projet sur une blockchain 🔴 <h4>
 
 ### Blockchain utilisée
 
